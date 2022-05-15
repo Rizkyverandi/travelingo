@@ -1,0 +1,29 @@
+#root {
+  --ff-primary: "Lato", sans-serif;
+  --ff-secondary: "Encode Sans Expanded", sans-serif;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--ff-primary);
+  background-color: #1e3231;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body,
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
