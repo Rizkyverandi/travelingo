@@ -7,8 +7,6 @@
 ## Preview
 ![Desktop view](https://user-images.githubusercontent.com/72022082/168480475-fab6a0d1-571f-479e-95e0-808f797351a5.png)
 
-And responsive in mobile view as well.
-
 ![Mobile view](https://user-images.githubusercontent.com/72022082/168480753-bffbc3f4-a634-441f-a17d-5233af333b51.png)
 
 ## Git way :
